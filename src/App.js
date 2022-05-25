@@ -1,8 +1,12 @@
 import './App.css';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import MainContent from './components/MainContent';
 // import ArrowFunction from './components/ArrowFunction';
 // import ClassComponent from './components/ClassComponent';
 // import  StartPoint  from './components/StartPoint.jsx'
-import TestUseState from './components/TestUseState'
+//import TestUseState from './components/TestUseState'
+
 
 
 function App() {
@@ -11,9 +15,11 @@ function App() {
       {/* <StartPoint />
       <ClassComponent />
       <ArrowFunction />
-      */}
+      <TestUseState /> */}
+      <Header />
+      <Footer />
+      <MainContent />
 
-      <TestUseState />
      
     </div>
   );

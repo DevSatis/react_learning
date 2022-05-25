@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: 20px;
+    align-items: center;
+}
+.nav > img{
+    width: 40px;
+}
+.nav-items{
+    list-style: none;
+    display: flex;
+}
+.nav-items>li{
+    padding: 10px;
+}
