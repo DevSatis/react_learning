@@ -17,8 +17,8 @@ function App() {
       <ArrowFunction />
       <TestUseState /> */}
       <Header />
-      <Footer />
       <MainContent />
+      <Footer />
 
      
     </div>

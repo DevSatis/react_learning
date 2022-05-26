@@ -1,10 +1,11 @@
 .nav{
     display: flex;
-    justify-content: 20px;
+    justify-content: 50px;
     align-items: center;
+    background-color: rgb(023, 110, 150);
 }
 .nav > img{
-    width: 40px;
+    width: 60px;
 }
 .nav-items{
     list-style: none;
@@ -12,4 +13,9 @@
 }
 .nav-items>li{
     padding: 10px;
+}
+.main_content{
+    text-align: justify;
+    background-color: rgb(225, 240, 235);
+    
 }
